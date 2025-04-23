@@ -7,7 +7,7 @@
 - 🤝 **I’m looking to collaborate** on interesting Java-related projects, particularly in Android Development, Backend, or AWS.
 - 📬 **How to reach me**: You can reach me via selvakumars8343@gmail.com.
 - 😄 **Pronouns**: He/Him
-- ⚡ **Fun fact**: No matter what, I always love Java. It’s more than a language for me—it’s my path to mastery! 🌱
+- ⚡ **Fun fact**: No matter what, I always love Java and JAWA. It’s more than a language for me—it’s my path to mastery! 🌱
 
 Let’s connect and build something amazing! 🚀
 .
